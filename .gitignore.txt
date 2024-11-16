@@ -1,0 +1,12 @@
+"C:\Users\aswin\Projects\Plant disease classification\.venv"
+
+
+"C:\Users\aswin\Projects\Plant disease classification\api\venv"
+
+# Ignore all .keras model files
+*.keras
+
+venv/
+*.pyd
+
+"api/venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd"

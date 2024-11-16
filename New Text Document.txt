@@ -1,0 +1,10 @@
+# Enforce LF for text files
+*.py text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+
+# Auto-detect line endings for binary files
+*.png binary
+*.jpg binary
+*.pdf binary

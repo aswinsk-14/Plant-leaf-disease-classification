@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Python: FastAPI",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\Users\\aswin\\Projects\\Plant disease classification\\api\\main.py", // Path to your main file
+            "args": ["main:app", "--reload"],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
