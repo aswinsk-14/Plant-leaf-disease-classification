@@ -1,4 +1,4 @@
-"C:\Users\aswin\Projects\Plant disease classification\.venv"
+y"C:\Users\aswin\Projects\Plant disease classification\.venv"
 
 
 "C:\Users\aswin\Projects\Plant disease classification\api\venv"
